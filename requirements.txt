@@ -1,10 +1,9 @@
 streamlit
 pandas
 numpy
-yfinance
-scikit-learn
 matplotlib
-seaborn
-requests
-urllib3
+scikit-learn
+tensorflow
+keras
+yfinance
 pandas_datareader
